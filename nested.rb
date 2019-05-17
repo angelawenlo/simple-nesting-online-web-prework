@@ -58,6 +58,6 @@ def adding_matz
     }
   }
   programmer_hash[:yukihiro_matsumoto]
-  programmer_hash[:dennis_ritchie][:languages]
+  programmer_hash
 
 end
