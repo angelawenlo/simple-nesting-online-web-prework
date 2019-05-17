@@ -101,7 +101,7 @@ def adding_to_dennis
     },
     :dennis_ritchie => {
       :known_for => {},
-      :languages => "C"
+      :languages => ["C"]
     }
   }
 
