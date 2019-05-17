@@ -16,7 +16,7 @@ def alan_kay_is_known_for
       :languages => ["COBOL", "FORTRAN"]
     }
     :alan_kay => {
-      :known_for => "COBOL",
+      :known_for => "Object Orientation",
       :languages => {}
     }
   }
