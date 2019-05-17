@@ -17,7 +17,7 @@ def alan_kay_is_known_for
     }
     :alan_kay => {
       :known_for => "COBOL",
-      :languages => ["COBOL", "FORTRAN"]
+      :languages => {}
     }
   }
 end
