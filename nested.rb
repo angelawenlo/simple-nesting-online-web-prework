@@ -43,6 +43,21 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-
+  programmer_hash = {
+    :grace_hopper => {
+      :known_for => "COBOL",
+      :languages => ["COBOL", "FORTRAN"]
+    },
+    :alan_kay => {
+      :known_for => "Object Orientation",
+      :languages => {}
+    },
+    :dennis_ritchie => {
+      :known_for => {},
+      :languages => "C"
+    }
+  }
+  programmer_hash[:yukihiro_matsumoto]
+  programmer_hash[:dennis_ritchie][:languages]
 
 end
