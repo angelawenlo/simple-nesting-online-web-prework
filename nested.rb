@@ -70,5 +70,20 @@ def adding_matz
 end
 
 def changing_alan
+  programmer_hash = {
+    :grace_hopper => {
+      :known_for => "COBOL",
+      :languages => ["COBOL", "FORTRAN"]
+    },
+    :alan_kay => {
+      :known_for => "Object Orientation",
+      :languages => {}
+    },
+    :dennis_ritchie => {
+      :known_for => {},
+      :languages => "C"
+    }
+  }
 
+  programmer_hash[:alan_kay][:known_for] = "GUI"
 end
